@@ -1,4 +1,4 @@
-#Jogo da Adivinhação
+# Jogo da Adivinhação
 
 Jogo da advinhação criado com base no curso c++: conhecendo a linguagem e a STL da alura com a finalidade de aprimorar meus conhecimentos em c++. 
 
